@@ -7,6 +7,6 @@ The code is under Python 3.11. Please run hw1q1.py with arguments 'input_file_fo
 
 '--input_file_folder' should be the input data folder containing input files. For example: './data/hw1q1/samples/'
 
-'--output_file_folder' should be the data folder you want to save the output files. For example: './data/hw1q1/output/'
+'--output_file_folder' should be the data folder which you want to save the output files. For example: './data/hw1q1/output/'
 
 Please make sure your environment contains 'argparse' and 'os'.
