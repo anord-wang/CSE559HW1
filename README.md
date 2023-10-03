@@ -10,4 +10,4 @@ The code is under Python 3.11. Please run hw1q1.py with arguments 'input_file_fo
 Please make sure your environment contains 'argparse' and 'os'.
 
 
-For questions 2-4, I can't activate 2 submissions on Gradescop, so I put the PDF file in GitHub. The file is [(hw1-wxy.pdf](hw1-wxy.pdf).
+For questions 2-4, I can't activate 2 submissions on Gradescop, so I put the PDF file in GitHub. The file is [hw1-wxy.pdf](hw1-wxy.pdf).
